@@ -7,6 +7,7 @@ Handy script to output version and configuration details of your Dashboards for 
 Simply run from the command line:
 ```
 ./versions.sh
+```
 
 # Example output
 ```
